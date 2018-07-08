@@ -1,0 +1,130 @@
+body {
+  background-color: ghostwhite;
+}
+
+#scratchHeading {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+/* #space1 {
+  margin-top: 1%;
+}
+
+#space2 {
+  margin-top: 1%;
+} */
+
+#space3 {
+  margin-top: 1%;
+}
+
+.pageTitle {
+  font-family: 'Crete Round', serif;
+  text-align: center;
+}
+
+.pageParagraph {
+  font-size: 17px;
+  text-align: center;
+}
+
+.card {
+  width: 90%;
+  margin: .5rem 5% 1rem 5%;
+  height: 430px;
+}
+
+.card-image {
+  height: 300px;
+}
+
+
+.card .card-content {
+  padding: 0;
+}
+
+.heading {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  font-family: 'Crete Round', serif;
+}
+
+.description {
+  text-align: center;
+  /* height: 60px; */
+
+}
+
+.cardDescription {
+  height: 117px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+/* .description2 {
+  text-align: center;
+  padding-bottom: 4%;
+  height: 57px;
+  padding-left: 2%;
+  padding-right: 2%;
+} */
+
+.codingConcepts {
+  text-align: center;
+  font-style: italic;
+  border-top: 2px dashed grey;
+  padding-top: 4%;
+}
+
+
+li {
+  text-align: center;
+  font-weight: bold;
+}
+
+.listItems {
+  padding-bottom: 7%;
+}
+
+.moreSpace {
+  margin-bottom: 18%;
+}
+
+.moreSpace2 {
+  margin-bottom: 13%;
+}
+
+.moreSpace3 {
+  margin-bottom: 4%;
+}
+
+.example {
+  margin-top: 5%;
+  font-weight: bold;
+}
+
+.eventsText {
+  color:peru;
+  font-weight: bold;
+}
+
+.ifthen {
+  font-weight: bold;
+}
+
+.controls {
+  color: goldenrod;
+}
+
+#dataText {
+  color: darkorange;
+  font-weight: bold;
+}
+
+.motionText {
+  color: blue;
+  font-weight: bold;
+}
